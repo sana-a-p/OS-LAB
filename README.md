@@ -5,13 +5,13 @@ This repository contains C programs implementing various **Operating System algo
 ---
 
 ## 📂 Process Scheduling Algorithms  
-**Folder:** `CPU_Scheduling/`
+**Folder:** `CPU Scheduling/`
 
 1. **First Come First Serve (FCFS)**  
-   [fcfs.c](./CPU_Scheduling/fcfs.c) – Implements FCFS CPU scheduling with arrival and burst times.
+   [fcfs.c](./CPU Scheduling/fcfs.c) – Implements FCFS CPU scheduling with arrival and burst times.
 
 2. **Shortest Job First (SJF)**  
-   [sjf.c](./CPU_Scheduling/sjf.c) – Implements non-preemptive SJF scheduling.
+   [sjf.c](./CPU Scheduling/sjf.c) – Implements non-preemptive SJF scheduling.
 
 3. **Priority Scheduling**  
    [priority.c](./CPU_Scheduling/priority.c) – Implements non-preemptive priority-based scheduling.
@@ -22,7 +22,7 @@ This repository contains C programs implementing various **Operating System algo
 ---
 
 ## 📂 Disk Scheduling Algorithms  
-**Folder:** `dDisk_Scheduling/`
+**Folder:** `Disk Scheduling/`
 
 1. **FCFS Disk Scheduling**  
    [fcfs.c](./Disk_Scheduling/fcfs.c) – Implements disk head movement using the FCFS approach.
